@@ -6,6 +6,18 @@
       "name": "Animals",
       "icon": "🐾",
       "manifest": "themes/animals.json"
+    },
+    {
+      "id": "fantasy",
+      "name": "Fantasy",
+      "icon": "🐉",
+      "manifest": "themes/fantasy.json"
+    },
+    {
+      "id": "vehicles",
+      "name": "Vehicles",
+      "icon": "🚗",
+      "manifest": "themes/vehicles.json"
     }
   ]
 }
