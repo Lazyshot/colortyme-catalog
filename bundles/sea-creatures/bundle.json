@@ -1,0 +1,159 @@
+{
+  "id": "sea-creatures",
+  "name": "Sea Creatures",
+  "icon": "🐋",
+  "description": "25 sea creature coloring pages featuring whales, dolphins, sharks, reef animals, crustaceans, and deep-sea life.",
+  "prompt": "We are looking for a 25 different pages containing sea creatures. a decent amount of whales at least though",
+  "pages": [
+    {
+      "id": "01",
+      "title": "Blue whale",
+      "image": "pages/01.svg",
+      "description": "A blue whale gliding underwater above a small school of fish with bubbles and sea plants."
+    },
+    {
+      "id": "02",
+      "title": "Humpback whale",
+      "image": "pages/02.svg",
+      "description": "A humpback whale breaching above gentle ocean waves with a splash, showing its long pectoral flippers."
+    },
+    {
+      "id": "03",
+      "title": "Sperm whale",
+      "image": "pages/03.svg",
+      "description": "A sperm whale with a large block-shaped head swimming through deep water near a small squid."
+    },
+    {
+      "id": "04",
+      "title": "Orca",
+      "image": "pages/04.svg",
+      "description": "An orca killer whale with a tall dorsal fin swimming through a sparse kelp forest."
+    },
+    {
+      "id": "05",
+      "title": "Beluga whale",
+      "image": "pages/05.svg",
+      "description": "A beluga whale with a rounded melon head exploring underwater beneath floating ice."
+    },
+    {
+      "id": "06",
+      "title": "Narwhal",
+      "image": "pages/06.svg",
+      "description": "A narwhal with its long spiral tusk swimming beneath floating sea ice."
+    },
+    {
+      "id": "07",
+      "title": "Gray whales",
+      "image": "pages/07.svg",
+      "description": "A gray whale and her calf swimming together above a sandy seabed with shells."
+    },
+    {
+      "id": "08",
+      "title": "Bowhead whale",
+      "image": "pages/08.svg",
+      "description": "A bowhead whale with a large arched mouth cruising beneath floating sea ice."
+    },
+    {
+      "id": "09",
+      "title": "Dolphin",
+      "image": "pages/09.svg",
+      "description": "A bottlenose dolphin leaping through a gentle ocean wave and splashes."
+    },
+    {
+      "id": "10",
+      "title": "Sea turtle",
+      "image": "pages/10.svg",
+      "description": "A sea turtle with a patterned shell swimming peacefully over seagrass tufts."
+    },
+    {
+      "id": "11",
+      "title": "Octopus",
+      "image": "pages/11.svg",
+      "description": "An eight-armed octopus exploring a rocky underwater den with shells."
+    },
+    {
+      "id": "12",
+      "title": "Seahorse",
+      "image": "pages/12.svg",
+      "description": "A seahorse floating upright with its curled tail wrapped around a strand of seaweed."
+    },
+    {
+      "id": "13",
+      "title": "Jellyfish",
+      "image": "pages/13.svg",
+      "description": "A jellyfish with trailing tentacles drifting in open water amid bubbles."
+    },
+    {
+      "id": "14",
+      "title": "Clownfish",
+      "image": "pages/14.svg",
+      "description": "A striped clownfish swimming beside a sea anemone."
+    },
+    {
+      "id": "15",
+      "title": "Manta ray",
+      "image": "pages/15.svg",
+      "description": "A wide-winged manta ray gliding above a small ocean reef."
+    },
+    {
+      "id": "16",
+      "title": "Whale shark",
+      "image": "pages/16.svg",
+      "description": "A spotted whale shark swimming beside a small school of fish."
+    },
+    {
+      "id": "17",
+      "title": "Hammerhead shark",
+      "image": "pages/17.svg",
+      "description": "A hammerhead shark swimming above a rocky ocean floor."
+    },
+    {
+      "id": "18",
+      "title": "Crab",
+      "image": "pages/18.svg",
+      "description": "A crab with two claws crossing a sandy seabed past shells."
+    },
+    {
+      "id": "19",
+      "title": "Lobster",
+      "image": "pages/19.svg",
+      "description": "A lobster with large claws and antennae sheltering beside rocks."
+    },
+    {
+      "id": "20",
+      "title": "Sea star",
+      "image": "pages/20.svg",
+      "description": "A five-armed sea star starfish resting on a sandy seabed beside shells."
+    },
+    {
+      "id": "21",
+      "title": "Pufferfish",
+      "image": "pages/21.svg",
+      "description": "A round spiny pufferfish swimming beside a patch of coral."
+    },
+    {
+      "id": "22",
+      "title": "Anglerfish",
+      "image": "pages/22.svg",
+      "description": "A deep-sea anglerfish with its head fishing lure swimming near bubbles."
+    },
+    {
+      "id": "23",
+      "title": "Seal",
+      "image": "pages/23.svg",
+      "description": "A harbor seal with whiskers and flippers swimming among kelp fronds."
+    },
+    {
+      "id": "24",
+      "title": "Cuttlefish",
+      "image": "pages/24.svg",
+      "description": "A cuttlefish hovering above a small reef."
+    },
+    {
+      "id": "25",
+      "title": "Sea otter",
+      "image": "pages/25.svg",
+      "description": "A sea otter floating on its back among kelp fronds while holding a shell."
+    }
+  ]
+}

@@ -1,4 +1,11 @@
 {
   "version": 1,
-  "bundles": []
+  "bundles": [
+    {
+      "id": "sea-creatures",
+      "name": "Sea Creatures",
+      "icon": "🐋",
+      "manifest": "bundles/sea-creatures/bundle.json"
+    }
+  ]
 }
